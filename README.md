@@ -1,4 +1,8 @@
 # MyApp10
+<h1>Directiva ngFor </h1>
+<h1>Array Typescript </h1>
+<h1>Framework Bootstrap 4 </h1>
+<h1>Routing </h1>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
